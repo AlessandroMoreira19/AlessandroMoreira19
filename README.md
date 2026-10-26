@@ -7,6 +7,7 @@
     <a href="https://github.com/AlessandroMoreira19">
       <img src="https://img.shields.io/badge/GitHub-AlessandroMoreira19-181717?style=for-the-badge&logo=github" alt="GitHub">
     </a>
+    <br>
     <a href="https://www.linkedin.com/in/alessandro-di-pietro-moreira-b3273737a">
       <img src="https://img.shields.io/badge/LinkedIn-Alessandro%20Moreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -59,13 +60,14 @@ Implementações práticas de algoritmos e estruturas de dados usando Python.
   Badge de treinamento emitido pela Amazon Web Services Training and Certification.  
   [Ver meu perfil no GitHub](https://github.com/AlessandroMoreira19)
 
+<!--
 ## 📈 Atividade no GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroMoreira19&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroMoreira19&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
 </div>
-
+-->
 ## 🤝 Vamos nos conectar?
 
 Confira meus repositórios para acompanhar meus projetos, estudos e minha evolução na programação.
